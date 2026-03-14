@@ -19,7 +19,7 @@ Berdasarkan dataset `vgsales.csv`, saya mengukur gabungan **Total Penjualan Glob
 
 ### Hasil Visualisasi:
 
-![Top 10 Platform Sepanjang Sejarah](plot1.png)
+![Top 10 Platform Sepanjang Sejarah](/imgplot/plot1.png)
 
 ### 💡 Key Insights:
 
@@ -35,7 +35,7 @@ Pada tahapan ini saya menyortir **Top 5 Publisher Global** dan membelah pendapat
 
 ### Hasil Visualisasi:
 
-![Penguasaan Genre oleh 5 Publisher Teratas](plot2.png)
+![Penguasaan Genre oleh 5 Publisher Teratas](/imgplot/plot2.png)
 
 ### 💡 Key Insights & Rekomendasi Bisnis:
 
