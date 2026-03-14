@@ -1,8 +1,5 @@
 # Analisis Data Penjualan Video Game Global (Portfolio)
 
-![Header Image](https://images.unsplash.com/photo-1511512578047-dfb367046420?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
-_(Ilustrasi - Unsplash)_
-
 Proyek analisis data **Video Game Sales**! Proyek ini mendemonstrasikan pengolahan data eksploratif (EDA) menggunakan library Python (Pandas, Matplotlib, Seaborn) untuk menggali _insight_ penting seputar sejarah tren platform game dan monopoli para pubisher tersukses di dunia.
 
 ---
@@ -22,7 +19,7 @@ Berdasarkan dataset `vgsales.csv`, saya mengukur gabungan **Total Penjualan Glob
 
 ### Hasil Visualisasi:
 
-![Top 10 Platform Sepanjang Sejarah](platform_trends.png)
+![Top 10 Platform Sepanjang Sejarah](plot1.png)
 
 ### 💡 Key Insights:
 
@@ -38,7 +35,7 @@ Pada tahapan ini saya menyortir **Top 5 Publisher Global** dan membelah pendapat
 
 ### Hasil Visualisasi:
 
-![Penguasaan Genre oleh 5 Publisher Teratas](publisher_strategies.png)
+![Penguasaan Genre oleh 5 Publisher Teratas](plot2.png)
 
 ### 💡 Key Insights & Rekomendasi Bisnis:
 
