@@ -183,7 +183,7 @@ Analisis ini disusun sebagai portofolio untuk mendemonstrasikan kemampuan **peng
 |              |                                  |
 | ------------ | -------------------------------- |
 | **Nama**     | Muhammad Faiqul Umam Dzunnuroeni |
-| **NIM**      | 24060123140136                   |
+| **NIM**      | 12409031050122                   |
 | **Kelas**    | 4E — Sistem Informasi            |
 | **Instansi** | UIN Syarif Hidayatullah Jakarta  |
 
