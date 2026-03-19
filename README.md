@@ -34,7 +34,7 @@ Analisis ini disusun sebagai portofolio untuk mendemonstrasikan kemampuan **peng
 3. Analisis Platform                 → Agregasi umur pasar & total penjualan per platform
 4. Analisis Publisher                → Ranking top 5 publisher, breakdown genre, kalkulasi % dominasi
 5. Analisis Regional                 → Agregasi penjualan per genre per region, normalisasi, heatmap
-6. Analisis Bonus (Tren & Genre)     → Tren tahunan, profil volume vs nilai vs efisiensi genre
+6. Analisis Tren & Genre             → Tren tahunan, profil volume vs nilai vs efisiensi genre
 7. Visualisasi & Interpretasi        → 9 grafik interaktif + narasi insight tiap analisis
 ```
 
